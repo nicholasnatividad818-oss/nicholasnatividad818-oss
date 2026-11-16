@@ -1,54 +1,56 @@
-# Hi, I'm Nicholas 👋
+# Nicholas Reyes Natividad 👋
 
-I’m a full-stack developer and product-minded builder focused on turning ideas into useful, polished digital experiences. My work spans music platforms, family support tools, analytics automation, and Shopify app tooling.
+I’m a product-minded full-stack developer building practical, user-focused digital experiences with a strong emphasis on clean UX, thoughtful architecture, and real-world problem solving.
 
-- 🔭 Currently building: product-focused web apps and developer tooling
-- 🌱 Learning: better product architecture, performance, and AI-assisted workflows
-- 💼 Focus: full-stack engineering, frontend UX, automation, and practical problem solving
-- 📍 Based in: [Your city / region]
-- 📫 Reach me: [your email] | [LinkedIn] | [Portfolio]
+- 🔭 Currently building: product and platform experiences across the web
+- 🌱 Learning: better product architecture, automation, and AI-assisted workflows
+- 💼 Focus: full-stack engineering, frontend experience, tooling, and practical software systems
+- 🌐 Website: https://instinctinkidentity.com
+- 📫 Connect: https://github.com/nicholasnatividad818-oss
 
 ## Featured Projects
 
-### [Sistrum Music Platform](https://github.com/nicholasnatividad818-oss/Sistrum-Music-platform)
-A modern music platform experience built with React, Vite, TypeScript, and Express. It includes playlist and catalog-style interactions, app-level architecture for streaming experiences, and integrations with Supabase and Google GenAI.
+### Sistrum Music Platform
+https://github.com/nicholasnatividad818-oss/Sistrum-Music-platform
 
-### [NRN Hearthline](https://github.com/nicholasnatividad818-oss/NRN-Hearthline)
-An offline-first family continuity app and progressive web app designed to help households track essentials like check-ins, medication reminders, emergency information, and a named-neighbor network.
+A modern music platform experience built with React, Vite, TypeScript, and Express. It explores streaming-inspired product UX, catalog discovery, and integrations with Supabase and Google GenAI.
 
-### [SEYDANIC Visibility Doctor](https://github.com/nicholasnatividad818-oss/seydanic-visibility-doctor)
-A Shopify app scaffold focused on metadata auditing and product visibility diagnostics. It reflects my interest in practical commerce tooling and developer-friendly automation for real-world business workflows.
+### NRN Hearthline
+https://github.com/nicholasnatividad818-oss/NRN-Hearthline
 
-### [Google Analytics Fixer](https://github.com/nicholasnatividad818-oss/Google-analytics-fixer)
-A utility for organizing and fixing Google Analytics setup and tag configuration. This project highlights my focus on making analytics and implementation workflows easier to reason about and maintain.
+An offline-first family continuity app designed to help households track important day-to-day essentials like medication, emergency readiness, check-ins, and shared household planning.
 
-### [NRN Catalog](https://github.com/nicholasnatividad818-oss/nrn-catalog)
-A catalog-oriented project exploring structured product and inventory experiences with a modern TypeScript stack.
+### SEYDANIC Visibility Doctor
+https://github.com/nicholasnatividad818-oss/seydanic-visibility-doctor
+
+A Shopify app scaffold focused on product visibility and metadata auditing. This project reflects my interest in practical tooling for commerce workflows and better operational visibility.
+
+### Google Analytics Fixer
+https://github.com/nicholasnatividad818-oss/Google-analytics-fixer
+
+A utility for organizing and improving analytics setup and tagging workflows, with a focus on cleaner implementation and easier troubleshooting.
+
+### NRN Catalog
+https://github.com/nicholasnatividad818-oss/nrn-catalog
+
+A catalog-oriented project exploring structured product and inventory experiences with a modern TypeScript-focused stack.
 
 ## Tech Stack
 
-`TypeScript` · `JavaScript` · `React` · `Vite` · `Node.js` · `Express` · `Tailwind CSS` · `Supabase` · `Docker` · `GitHub Actions` · `Shopify Apps` · `Google GenAI`
+`TypeScript` · `JavaScript` · `React` · `Vite` · `Node.js` · `Express` · `Tailwind CSS` · `Supabase` · `Docker` · `GitHub Actions` · `Shopify Apps`
 
 ## What I Care About
 
-- Building products that are useful, practical, and easy to use
-- Writing code that is maintainable, thoughtful, and scalable
-- Solving real-world problems with clean user experience and solid engineering
-- Exploring AI, automation, and developer productivity in meaningful ways
-- Turning rough ideas into working systems that people can actually use
-
-## Current Interests
-
-- Full-stack product development
-- App architecture and UX-focused engineering
-- Workflow automation and analytics tooling
-- AI-assisted product workflows
-- Tools that improve operations, visibility, and user experience
+- Building useful products that solve real problems
+- Writing maintainable, thoughtful code
+- Designing experiences that are elegant and practical
+- Turning rough ideas into polished, working systems
+- Exploring automation, AI workflows, and developer productivity
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com) · [Email](mailto:you@example.com) · [GitHub](https://github.com/nicholasnatividad818-oss)
+[Website](https://instinctinkidentity.com) · [GitHub](https://github.com/nicholasnatividad818-oss)
 
 ---
 
-I like building things that matter, solving messy problems, and creating software that works well in the real world. If you’re working on something interesting, I’d love to connect.
+I like building products that matter, solving messy problems, and creating software that works well in the real world.
